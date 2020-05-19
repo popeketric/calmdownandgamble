@@ -1,8 +1,8 @@
-## Interface: 
-## X-Min-Interface: 
+## Interface: 80300
+## X-Min-Interface: 80300 
 ## Title: CalmDownandGamble
 ## Author: Fuzz Magtheridon-US (Mal'Ganis-US) 
-## Version: 
+## Version: 8.3.0
 ## Notes: CALM DOWN AND GAMBLE!
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
